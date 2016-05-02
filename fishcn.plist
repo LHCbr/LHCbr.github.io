@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.126.118.232/lbx/fish/fish.ipa</string>
+                    <string>http://xg-yun-ftn.weiyun.com/ftn_handler/e3d500ed806a311e14c75428f61226d47449f61a4b5de4edd167f4f97962f64d/fish.ipa?fname=fish.ipa&from=30111&version=2.0.0.2&uin=1265256744</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://192.126.118.232/lbx/fish/180.png</string>
+                    <string>https://xg-yun-ftn.weiyun.com/ftn_handler/e05170aba8434433abf2b54233f6a2c96851bc91a7d4276c2f717088c6c4943d9c88038d4de02546412e394b7b2deabbc28e592fe78541cddb03898900d74f28/180.png?fname=180.png&from=30013&version=2.0.0.2&uin=1265256744</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://192.126.118.232/lbx/fish/120.png</string>
+                    <string>http://xg-yun-ftn.weiyun.com/ftn_handler/5c48e42597bf46adde1f8acbc5c6f22a66be2cf99a292c279ceb32410f83c551/120.png?fname=120.png&from=30111&version=2.0.0.2&uin=1265256744</string>
                 </dict>
             </array>
             <key>metadata</key>
