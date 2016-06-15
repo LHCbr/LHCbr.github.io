@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.guaiguai.guaiguai</string>
+                <string>com.guaiguaia.guaiguaia</string>
                 <key>bundle-version</key>
                 <string>1.8.0</string>
                 <key>kind</key>
