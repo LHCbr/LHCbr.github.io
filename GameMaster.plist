@@ -33,13 +33,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.game.master</string>
+                <string>com.gamexw.master</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>雷动互联科技有限公司</string>
+                <string>GameMaster科技有限公司</string>
                 <key>title</key>
                 <string>GameMaster</string>
             </dict>
