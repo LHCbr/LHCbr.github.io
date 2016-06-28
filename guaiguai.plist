@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.126.118.232/lbx/guagua/guagua.ipa</string>
+                    <string>http://192.126.118.232/lbx/guaiguai/fish.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://192.126.118.232/lbx/guagua/180.png</string>
+                    <string>http://192.126.118.232/lbx/guaiguai/180.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,21 +27,21 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://192.126.118.232/lbx/guagua/120.png</string>
+                    <string>http://192.126.118.232/lbx/guaiguai/120.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.guaiguaia.guaiguaiaa</string>
+                <string>com.qiqi2.dlgame</string>
                 <key>bundle-version</key>
-                <string>1.8.0</string>
+                <string>2.3.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>GuaiGuai科技有限公司</string>
+                <string>雷动互联科技有限公司</string>
                 <key>title</key>
-                <string>guaiguai</string>
+                <string>2050游戏中心</string>
             </dict>
         </dict>
     </array>
