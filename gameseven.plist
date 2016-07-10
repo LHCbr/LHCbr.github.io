@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.gameseven.seven</string>
+                <string>com.gameseven.cmseven</string>
                 <key>bundle-version</key>
                 <string>2.3.0</string>
                 <key>kind</key>
@@ -41,7 +41,7 @@
                 <key>subtitle</key>
                 <string>Game互联科技有限公司</string>
                 <key>title</key>
-                <string>Game游戏中心</string>
+                <string>XiaoXiao</string>
             </dict>
         </dict>
     </array>
