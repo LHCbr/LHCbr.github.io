@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.vv.xvv</string>
+                <string>com.orzTelegram.test</string>
                 <key>bundle-version</key>
                 <string>3.6</string>
                 <key>kind</key>
