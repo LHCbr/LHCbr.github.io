@@ -35,13 +35,13 @@
                 <key>bundle-identifier</key>
                 <string>com.qishitest.fish</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>1.4.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
                 <string>雷动互联科技有限公司</string>
                 <key>title</key>
-                <string>豆丸梭哈</string>
+                <string>大家玩梭哈</string>
             </dict>
         </dict>
     </array>
