@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.126.118.232/lbx/xiao7/xiao7.ipa</string>
+                    <string>http://192.126.118.232/lbx/xiao9/xiao9.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://192.126.118.232/lbx/xiao7/180.png</string>
+                    <string>http://192.126.118.232/lbx/xiao9/180.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://192.126.118.232/lbx/xiao7/120.png</string>
+                    <string>http://192.126.118.232/lbx/xiao9/120.png</string>
                 </dict>
             </array>
             <key>metadata</key>
