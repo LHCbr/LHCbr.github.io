@@ -35,13 +35,13 @@
                 <key>bundle-identifier</key>
                 <string>com.gamebk1.bk</string>
                 <key>bundle-version</key>
-                <string>2.3.0</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
                 <string>Game互联科技有限公司</string>
                 <key>title</key>
-                <string>Game游戏中心</string>
+                <string>疯狂捕鱼</string>
             </dict>
         </dict>
     </array>
