@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.djw01.enterprise</string>
+                <string>com.duoheyi.enterprise</string>
                 <key>bundle-version</key>
                 <string>1.4.0</string>
                 <key>kind</key>
