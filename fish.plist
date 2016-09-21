@@ -33,15 +33,15 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.qiqi2.dlgame</string>
+                <string>com.fish.enterprise</string>
                 <key>bundle-version</key>
-                <string>2.3.0</string>
+                <string>1.4.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>雷动互联科技有限公司</string>
+                <string>Anymous</string>
                 <key>title</key>
-                <string>2050游戏中心</string>
+                <string>渔夫一号</string>
             </dict>
         </dict>
     </array>
