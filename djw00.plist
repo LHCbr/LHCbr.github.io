@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.djw00.enterprise</string>
+                <string>com.guomin.enterprise</string>
                 <key>bundle-version</key>
                 <string>1.4.0</string>
                 <key>kind</key>
@@ -41,7 +41,7 @@
                 <key>subtitle</key>
                 <string>Anonymous</string>
                 <key>title</key>
-                <string>澳门渔场</string>
+                <string>国民炸金花</string>
             </dict>
         </dict>
     </array>
