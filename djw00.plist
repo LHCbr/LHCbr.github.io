@@ -33,15 +33,15 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.guomin.enterprise</string>
+                <string>com.jiariyouxi.appstore</string>
                 <key>bundle-version</key>
-                <string>1.4.0</string>
+                <string>8.8.2</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
                 <string>Anonymous</string>
                 <key>title</key>
-                <string>国民炸金花</string>
+                <string>假日炸金花</string>
             </dict>
         </dict>
     </array>
