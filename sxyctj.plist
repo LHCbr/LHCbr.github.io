@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.novel.HLEnjoyReader</string>
+                <string>com.novel.HLEmnjoyReader</string>
                 <key>bundle-version</key>
                 <string>1.4.0</string>
                 <key>kind</key>
