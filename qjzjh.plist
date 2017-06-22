@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.qjzjh.adhoc</string>
+                <string>com.qjzjh01.appstore</string>
                 <key>bundle-version</key>
                 <string>1.1.3</string>
                 <key>kind</key>
