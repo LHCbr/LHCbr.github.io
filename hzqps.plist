@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://23.234.60.178:8099/youxi/wfddz/wfddz.ipa</string>
+                    <string>http://23.234.60.178:8099/youxi/hzqps/hzqps.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://23.234.60.178:8099/youxi/wfddz/180.png</string>
+                    <string>http://23.234.60.178:8099/youxi/hzqps/180.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://23.234.60.178:8099/youxi/wfddz/120.png</string>
+                    <string>http://23.234.60.178:8099/youxi/hzqps/120.png</string>
                 </dict>
             </array>
             <key>metadata</key>
