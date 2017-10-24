@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.jin.lun</string>
+                <string>com.wharv.fivellords</string>
                 <key>bundle-version</key>
                 <string>1.1.3</string>
                 <key>kind</key>
@@ -41,7 +41,7 @@
                 <key>subtitle</key>
                 <string>Anymous</string>
                 <key>title</key>
-                <string>五福斗地主</string>
+                <string>万丰斗地主</string>
             </dict>
         </dict>
     </array>
