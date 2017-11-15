@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://23.234.60.178:8099/youxi/amssz/amssz.ipa</string>
+                    <string>http://23.234.60.178:8099/youxi/zrzjh/zrzjh.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://23.234.60.178:8099/youxi/amssz/180.png</string>
+                    <string>http://23.234.60.178:8099/youxi/zrzjh/180.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,21 +27,21 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://23.234.60.178:8099/youxi/amssz/120.png</string>
+                    <string>http://23.234.60.178:8099/youxi/zrzjh/120.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.macro.3page</string>
+                <string>com.hms.merlin</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>3.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
                 <string>Anymous</string>
                 <key>title</key>
-                <string>澳门三张炸</string>
+                <string>真人炸金花</string>
             </dict>
         </dict>
     </array>
