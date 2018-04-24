@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://182.161.66.140:8090/car04/car.ipa</string>
+                    <string>http://182.161.66.140:8090/car05/car.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://182.161.66.140:8090/car04/180.png</string>
+                    <string>http://182.161.66.140:8090/car05/180.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,13 +27,13 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://182.161.66.140:8090/car04/120.png</string>
+                    <string>http://182.161.66.140:8090/car05/120.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.cybergame.news123</string>
+                <string>com.cybergame.news</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
